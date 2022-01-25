@@ -3,7 +3,7 @@
 # Script for Web Server Installation
 # Date Created: 2017-10-09
 # Version: webstackinstaller v1.0
-# Author: Cynthia Ayu (cynthiayu)
+# Author: C. Ayu W. (kulacino)
 #
 
 # Start from here.
